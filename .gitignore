@@ -1,0 +1,16 @@
+# Front End
+node_modules
+
+# Build
+.pyc
+__pycache__
+www/build
+egg-info
+
+
+# Development tmp files
+venv
+.tox
+.vscode
+ideal_parking.egg-info
+.mongo_test_data
